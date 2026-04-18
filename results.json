@@ -1,0 +1,32 @@
+[
+  {
+    "id": "20260418_195158",
+    "original_name": "HQ HOTMAILS.txt",
+    "output_name": "20260418_195158_HQ_HOTMAILS_clean.txt",
+    "download_url": "https://mp0333.github.io/TeleGi/files/20260418_195158_HQ_HOTMAILS_clean.txt",
+    "raw_url": "https://raw.githubusercontent.com/mp0333/TeleGi/main/files/20260418_195158_HQ_HOTMAILS_clean.txt",
+    "gh_path": "files/20260418_195158_HQ_HOTMAILS_clean.txt",
+    "file_size_mb": 0.244,
+    "processed_at": "2026-04-18T19:52:00.766242+00:00",
+    "elapsed_sec": 0.01,
+    "stats": {
+      "total_parsed": 7178,
+      "valid_unique": 7135,
+      "duplicates": 43,
+      "top_domain": "hotmail.com",
+      "top_domain_count": 4818,
+      "domain_breakdown": {
+        "hotmail.com": 4818,
+        "outlook.com": 881,
+        "hotmail.fr": 259,
+        "live.com": 175,
+        "msn.com": 140,
+        "hotmail.co.uk": 111,
+        "hotmail.it": 100,
+        "hotmail.es": 70,
+        "live.fr": 63,
+        "outlook.fr": 53
+      }
+    }
+  }
+]
