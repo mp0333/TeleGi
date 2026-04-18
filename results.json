@@ -1,5 +1,35 @@
 [
   {
+    "id": "20260418_195513",
+    "original_name": "fresh hotmail @bas_123y.txt",
+    "output_name": "20260418_195513_fresh_hotmail__bas_123y_clean.txt",
+    "download_url": "https://mp0333.github.io/TeleGi/files/20260418_195513_fresh_hotmail__bas_123y_clean.txt",
+    "raw_url": "https://raw.githubusercontent.com/mp0333/TeleGi/main/files/20260418_195513_fresh_hotmail__bas_123y_clean.txt",
+    "gh_path": "files/20260418_195513_fresh_hotmail__bas_123y_clean.txt",
+    "file_size_mb": 0.02,
+    "processed_at": "2026-04-18T19:55:14.603732+00:00",
+    "elapsed_sec": 0.0,
+    "stats": {
+      "total_parsed": 596,
+      "valid_unique": 596,
+      "duplicates": 0,
+      "top_domain": "hotmail.com",
+      "top_domain_count": 367,
+      "domain_breakdown": {
+        "hotmail.com": 367,
+        "gmail.com": 84,
+        "outlook.com": 54,
+        "live.com": 11,
+        "outlook.kr": 10,
+        "msn.com": 10,
+        "hotmail.es": 7,
+        "hotmail.fr": 7,
+        "hotmail.co.uk": 6,
+        "outlook.jp": 5
+      }
+    }
+  },
+  {
     "id": "20260418_195508",
     "original_name": "135X Privet Hotmail by @NoMan8x8x.txt",
     "output_name": "20260418_195508_135X_Privet_Hotmail_by__NoMan8x8x_clean.txt",
