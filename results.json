@@ -1,5 +1,35 @@
 [
   {
+    "id": "20260418_195508",
+    "original_name": "135X Privet Hotmail by @NoMan8x8x.txt",
+    "output_name": "20260418_195508_135X_Privet_Hotmail_by__NoMan8x8x_clean.txt",
+    "download_url": "https://mp0333.github.io/TeleGi/files/20260418_195508_135X_Privet_Hotmail_by__NoMan8x8x_clean.txt",
+    "raw_url": "https://raw.githubusercontent.com/mp0333/TeleGi/main/files/20260418_195508_135X_Privet_Hotmail_by__NoMan8x8x_clean.txt",
+    "gh_path": "files/20260418_195508_135X_Privet_Hotmail_by__NoMan8x8x_clean.txt",
+    "file_size_mb": 0.005,
+    "processed_at": "2026-04-18T19:55:10.261113+00:00",
+    "elapsed_sec": 0.0,
+    "stats": {
+      "total_parsed": 145,
+      "valid_unique": 136,
+      "duplicates": 1,
+      "top_domain": "hotmail.com",
+      "top_domain_count": 30,
+      "domain_breakdown": {
+        "hotmail.com": 30,
+        "outlook.com": 25,
+        "hotmail.co.uk": 7,
+        "gmail.com": 5,
+        "live.com": 5,
+        "hotmail.de": 4,
+        "outlook.fr": 3,
+        "live.it": 3,
+        "hotmail.jp": 3,
+        "hotmail.fr": 3
+      }
+    }
+  },
+  {
     "id": "20260418_195504",
     "original_name": "HOTMAIL ADOSKI⧸BELOW (129).txt",
     "output_name": "20260418_195504_HOTMAIL_ADOSKI_BELOW__129__clean.txt",
