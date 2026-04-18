@@ -1,5 +1,35 @@
 [
   {
+    "id": "20260418_201929",
+    "original_name": "Merged_2_Files",
+    "output_name": "20260418_201929_Merged_2_Files_clean.txt",
+    "download_url": "https://mp0333.github.io/TeleGi/files/20260418_201929_Merged_2_Files_clean.txt",
+    "raw_url": "https://raw.githubusercontent.com/mp0333/TeleGi/main/files/20260418_201929_Merged_2_Files_clean.txt",
+    "gh_path": "files/20260418_201929_Merged_2_Files_clean.txt",
+    "file_size_mb": 0.004,
+    "processed_at": "2026-04-18T20:19:31.263498+00:00",
+    "elapsed_sec": 0.0,
+    "stats": {
+      "total_parsed": 258,
+      "valid_unique": 129,
+      "duplicates": 129,
+      "top_domain": "hotmail.com",
+      "top_domain_count": 99,
+      "domain_breakdown": {
+        "hotmail.com": 99,
+        "outlook.com": 15,
+        "hotmail.fr": 4,
+        "hotmail.es": 2,
+        "hotmail.it": 2,
+        "outlook.fr": 2,
+        "live.it": 1,
+        "outlook.jp": 1,
+        "hotmail.no": 1,
+        "live.com": 1
+      }
+    }
+  },
+  {
     "id": "20260418_200840",
     "original_name": "Merged_4_Files",
     "output_name": "20260418_200840_Merged_4_Files_clean.txt",
